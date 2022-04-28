@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Clive Ntuli 
-- 👀 I’m interested in AI innovation
-- 🌱 I’m currently learning about scaling AI applications
-- 💞️ I’m looking to collaborate on anything AI
+- 👀 I’m interested in AI/Ml innovation
+- 🌱 I’m currently learning about scaling AI/ML applications
+- 💞️ I’m looking to collaborate on anything AI/ML
 - 📫 How to reach me linkedin.com/in/cliventuli
 
 <!---
